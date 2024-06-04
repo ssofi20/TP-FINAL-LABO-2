@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1717517616 source:e:\utn\2 cuatrimestre\laboratorio 2\proyecto final\sistema gestión biblioteca\main.cpp
+	<iostream>
+	"AppManager.h"
+
+1717438242 source:e:\utn\2 cuatrimestre\laboratorio 2\proyecto final\sistema gestión biblioteca\src\direccion.cpp
+	"Direccion.h"
+	<iostream>
+
+1717438242 e:\utn\2 cuatrimestre\laboratorio 2\proyecto final\sistema gestión biblioteca\include\direccion.h
+	<string>
+
+1717262874 source:e:\utn\2 cuatrimestre\laboratorio 2\proyecto final\sistema gestión biblioteca\src\fecha.cpp
+	"Fecha.h"
+	<iostream>
+
+1717176462 e:\utn\2 cuatrimestre\laboratorio 2\proyecto final\sistema gestión biblioteca\include\fecha.h
+
+1717284990 source:e:\utn\2 cuatrimestre\laboratorio 2\proyecto final\sistema gestión biblioteca\src\libro.cpp
+	"Libro.h"
+
+1717284732 e:\utn\2 cuatrimestre\laboratorio 2\proyecto final\sistema gestión biblioteca\include\libro.h
+	<string>
+
+1717285484 source:e:\utn\2 cuatrimestre\laboratorio 2\proyecto final\sistema gestión biblioteca\src\socio.cpp
+	"Socio.h"
+
+1717438118 e:\utn\2 cuatrimestre\laboratorio 2\proyecto final\sistema gestión biblioteca\include\socio.h
+	<string>
+	"Fecha.h"
+	"Direccion.h"
+
+1717439120 source:e:\utn\2 cuatrimestre\laboratorio 2\proyecto final\sistema gestión biblioteca\src\prestamo.cpp
+	"Prestamo.h"
+
+1717439054 e:\utn\2 cuatrimestre\laboratorio 2\proyecto final\sistema gestión biblioteca\include\prestamo.h
+	"Fecha.h"
+
+1717517616 e:\utn\2 cuatrimestre\laboratorio 2\proyecto final\sistema gestión biblioteca\include\appmanager.h
+
+1717517616 source:e:\utn\2 cuatrimestre\laboratorio 2\proyecto final\sistema gestión biblioteca\src\appmanager.cpp
+	"AppManager.h"
+	<iostream>
+
+1717518138 source:e:\utn\2 cuatrimestre\laboratorio 2\proyecto final\sistema gestión biblioteca\src\bibliotecariomanager.cpp
+	"BibliotecarioManager.h"
+
+1717518138 e:\utn\2 cuatrimestre\laboratorio 2\proyecto final\sistema gestión biblioteca\include\bibliotecariomanager.h
+
+1717518138 source:e:\utn\2 cuatrimestre\laboratorio 2\proyecto final\sistema gestión biblioteca\src\sociomanager.cpp
+	"SocioManager.h"
+
+1717518138 e:\utn\2 cuatrimestre\laboratorio 2\proyecto final\sistema gestión biblioteca\include\sociomanager.h
+
