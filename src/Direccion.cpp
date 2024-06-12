@@ -5,8 +5,8 @@ using namespace std;
 
 Direccion::Direccion()
 {
-
 }
+
 
 Direccion::Direccion(string calle, int altura, int cp, string observaciones, int depa)
 {

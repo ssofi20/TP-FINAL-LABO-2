@@ -27,8 +27,6 @@ class Direccion
         void setCp(int cp);
         void setObservaciones(std::string obsv);
 
-    protected:
-
     private:
 
         std::string _calle;

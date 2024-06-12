@@ -5,13 +5,13 @@ class Libro
 {
     public:
 
-        Libro();
+        //Libro(int idLibro, std::string nombre, std::string categoria, std::string autor, std::string editorial, int anio, int cant, bool estado);
 
         ///GETS
 
         int getIDLibro();
         std::string getNombre();
-        std::string getTema();
+        std::string getCategoria();
         std::string getAutor();
         std::string getEditorial();
         int getAnioPublicacion();
@@ -22,7 +22,7 @@ class Libro
 
         void setIDLibro(int idLibro);
         void setNombre(std::string nombre);
-        void setTema(std::string tema);
+        void setCategoria(std::string categoria);
         void setAutor(std::string autor);
         void setEditorial(std::string editorial);
         void setAnioPublicacion(int anio);
@@ -35,7 +35,7 @@ class Libro
 
         int _IDLibro;
         std::string _nombre;
-        std::string _tema;
+        std::string _categoria;
         std::string _autor;
         std::string _editorial;
         int _anioPublicacion;

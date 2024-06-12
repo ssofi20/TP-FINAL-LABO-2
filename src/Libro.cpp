@@ -2,10 +2,14 @@
 
 using namespace std;
 
-Libro::Libro()
+/*
+Libro::Libro(int idLibro, std::string nombre, std::string categoria, std::string autor, std::string editorial, int anio, int cant, bool estado)
 {
-    //ctor
+    _IDLibro = idLibro;
+    _nombre = nombre;
+    _categoria =
 }
+*/
 
 int Libro::getIDLibro()
 {
@@ -15,9 +19,9 @@ string Libro::getNombre()
 {
     return _nombre;
 }
-string Libro::getTema()
+string Libro::getCategoria()
 {
-    return _tema;
+    return _categoria;
 }
 string Libro::getAutor()
 {
@@ -49,9 +53,9 @@ void Libro::setNombre(string nombre)
 {
     _nombre = nombre;
 }
-void Libro::setTema(string tema)
+void Libro::setCategoria(string categoria)
 {
-    _tema = tema;
+    _categoria = categoria;
 }
 void Libro::setAutor(string autor)
 {

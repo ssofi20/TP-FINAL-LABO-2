@@ -1,13 +1,13 @@
 # depslib dependency file v1.0
-1717517616 source:e:\utn\2 cuatrimestre\laboratorio 2\proyecto final\sistema gestión biblioteca\main.cpp
+1717678616 source:e:\utn\2 cuatrimestre\laboratorio 2\proyecto final\sistema gestión biblioteca\main.cpp
 	<iostream>
 	"AppManager.h"
 
-1717438242 source:e:\utn\2 cuatrimestre\laboratorio 2\proyecto final\sistema gestión biblioteca\src\direccion.cpp
+1717680016 source:e:\utn\2 cuatrimestre\laboratorio 2\proyecto final\sistema gestión biblioteca\src\direccion.cpp
 	"Direccion.h"
 	<iostream>
 
-1717438242 e:\utn\2 cuatrimestre\laboratorio 2\proyecto final\sistema gestión biblioteca\include\direccion.h
+1717675500 e:\utn\2 cuatrimestre\laboratorio 2\proyecto final\sistema gestión biblioteca\include\direccion.h
 	<string>
 
 1717262874 source:e:\utn\2 cuatrimestre\laboratorio 2\proyecto final\sistema gestión biblioteca\src\fecha.cpp
@@ -16,10 +16,10 @@
 
 1717176462 e:\utn\2 cuatrimestre\laboratorio 2\proyecto final\sistema gestión biblioteca\include\fecha.h
 
-1717284990 source:e:\utn\2 cuatrimestre\laboratorio 2\proyecto final\sistema gestión biblioteca\src\libro.cpp
+1717684070 source:e:\utn\2 cuatrimestre\laboratorio 2\proyecto final\sistema gestión biblioteca\src\libro.cpp
 	"Libro.h"
 
-1717284732 e:\utn\2 cuatrimestre\laboratorio 2\proyecto final\sistema gestión biblioteca\include\libro.h
+1717802130 e:\utn\2 cuatrimestre\laboratorio 2\proyecto final\sistema gestión biblioteca\include\libro.h
 	<string>
 
 1717285484 source:e:\utn\2 cuatrimestre\laboratorio 2\proyecto final\sistema gestión biblioteca\src\socio.cpp
@@ -36,19 +36,50 @@
 1717439054 e:\utn\2 cuatrimestre\laboratorio 2\proyecto final\sistema gestión biblioteca\include\prestamo.h
 	"Fecha.h"
 
-1717517616 e:\utn\2 cuatrimestre\laboratorio 2\proyecto final\sistema gestión biblioteca\include\appmanager.h
+1717679468 e:\utn\2 cuatrimestre\laboratorio 2\proyecto final\sistema gestión biblioteca\include\appmanager.h
+	"BibliotecarioManager.h"
 
-1717517616 source:e:\utn\2 cuatrimestre\laboratorio 2\proyecto final\sistema gestión biblioteca\src\appmanager.cpp
+1717679470 source:e:\utn\2 cuatrimestre\laboratorio 2\proyecto final\sistema gestión biblioteca\src\appmanager.cpp
 	"AppManager.h"
 	<iostream>
 
-1717518138 source:e:\utn\2 cuatrimestre\laboratorio 2\proyecto final\sistema gestión biblioteca\src\bibliotecariomanager.cpp
+1718210204 source:e:\utn\2 cuatrimestre\laboratorio 2\proyecto final\sistema gestión biblioteca\src\bibliotecariomanager.cpp
 	"BibliotecarioManager.h"
+	<iostream>
 
-1717518138 e:\utn\2 cuatrimestre\laboratorio 2\proyecto final\sistema gestión biblioteca\include\bibliotecariomanager.h
+1718210204 e:\utn\2 cuatrimestre\laboratorio 2\proyecto final\sistema gestión biblioteca\include\bibliotecariomanager.h
+	"BibliotecarioArchivo.h"
+	"LibroManager.h"
 
 1717518138 source:e:\utn\2 cuatrimestre\laboratorio 2\proyecto final\sistema gestión biblioteca\src\sociomanager.cpp
 	"SocioManager.h"
 
-1717518138 e:\utn\2 cuatrimestre\laboratorio 2\proyecto final\sistema gestión biblioteca\include\sociomanager.h
+1717677128 e:\utn\2 cuatrimestre\laboratorio 2\proyecto final\sistema gestión biblioteca\include\sociomanager.h
+
+1717677128 source:e:\utn\2 cuatrimestre\laboratorio 2\proyecto final\sistema gestión biblioteca\src\bibliotecarioarchivo.cpp
+	"BibliotecarioArchivo.h"
+
+1717677494 e:\utn\2 cuatrimestre\laboratorio 2\proyecto final\sistema gestión biblioteca\include\bibliotecarioarchivo.h
+	"Archivo.h"
+
+1717777846 source:e:\utn\2 cuatrimestre\laboratorio 2\proyecto final\sistema gestión biblioteca\src\archivo.cpp
+	"Archivo.h"
+
+1717777990 e:\utn\2 cuatrimestre\laboratorio 2\proyecto final\sistema gestión biblioteca\include\archivo.h
+	<string>
+
+1717801674 e:\utn\2 cuatrimestre\laboratorio 2\proyecto final\sistema gestión biblioteca\include\libromanager.h
+	"LibroArchivo.h"
+
+1718211496 e:\utn\2 cuatrimestre\laboratorio 2\proyecto final\sistema gestión biblioteca\include\libroarchivo.h
+	<string>
+	"Archivo.h"
+	"Libro.h"
+
+1717801674 source:e:\utn\2 cuatrimestre\laboratorio 2\proyecto final\sistema gestión biblioteca\src\libroarchivo.cpp
+	"LibroArchivo.h"
+
+1718211020 source:e:\utn\2 cuatrimestre\laboratorio 2\proyecto final\sistema gestión biblioteca\src\libromanager.cpp
+	"LibroManager.h"
+	<iostream>
 

@@ -1,5 +1,5 @@
 #pragma once
-
+#include "BibliotecarioManager.h"
 
 class AppManager
 {
